@@ -1,0 +1,11 @@
+{
+	"token": "Bot Token",
+	"clientId": "Client Id",
+	"guildId": "Guild Id",
+	"geniusApiToken": "Genius API Token",
+	"prefix": "-",
+	"mongodbURI": "Mongodb URI",
+	"levelChannelId" : "Level Channel Id",
+	"logChannelId" : "Log Channel Id",
+	"clientColor" : "2f3136"
+}

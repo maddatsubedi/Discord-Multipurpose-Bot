@@ -1,0 +1,27 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discord-player/extractor": "^4.3.1",
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/rest": "^1.5.0",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "canvacord": "^5.4.10",
+    "discord-player": "^6.2.1",
+    "discord.js": "^14.11.0",
+    "googleapis": "^120.0.0",
+    "mongoose": "^7.3.1",
+    "ms": "^3.0.0-canary.1",
+    "node-fetch": "2",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.11.5"
+  }
+}
