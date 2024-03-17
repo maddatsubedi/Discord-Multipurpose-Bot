@@ -1,13 +1,13 @@
 {
-  "type": "service_account",
-  "project_id": "trape-327504",
-  "private_key_id": "6a2502208ed1939f21ea3057fbd1b24cc6ba222e",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCeG2ZB5IYW4+wC\n8FDwdHGaP3GWG3T3r7ZWzQ2BDVH4mkke2AQBLNmGR1SXkKPQUdKU9C9vGgO4eZWT\nHGMpQZQ69TiHi4N1+Fs/6k1kdmeap+8CP1FgsQrtnpkGvdtKgkvqhWoVLbyuXlRB\n+agNhpiMAD4cFr+T/F+8yWxddW8wC1OsUoCr3S4C0UuH5oVBe4IMHBOY59TxXIx+\nZh1t2m1g3guhwMa6cwli82Urlb6i3aPnfyuj9+yfE0x8jWMziUl6OmXCLO9J/E3b\ninPQsPD9qLy3PwG0fmT//JGyyucYaUdmfIuq+GtAVMNw9IB6LhGxtYqoMAoslQ8T\nCTMEBmDxAgMBAAECggEAARRf0OBeGAbrZCO+8b1hzzNSs7sxQ8Wz4YjZ6EEuh5uK\nF0dTU6y6OYQALF7E95Wvcevu7PvI/bf60PvXI396oyJsheRqe+I7wUZ4y9BRKcmu\nxJ2pERd0YyX7loOyXSJhoVLS5B0hVjF3stGhF6KNJRuVUPzIxxpojvHzJvo3zaSr\nZYUAFKV2wR2CwQf9qWS/HGhMiE0EmSfBOK33kcm01ND8wykI+TVBGWc5sdZ3VwX/\nvHK9awrXGTotw10OviwtTkFDBJbiUYqX/mhm1n6d/BaQdEVZ/e/VhMaVtiuxXCC3\ndWGPLl7vtIorfeazER/WMqdwyPPXSGCmIGSP/N3sCQKBgQDdW+EXoxbO2zBUcxPi\nPua9OgT54PnfxKSuAJzqhTMGhMNEUgLeR3IvJGzJ3fF6sBDBDpfbIKqorrZLdBeh\ndXmGLIykF5dsERSEeByRGjWVG/tvHSIaAsq1DFMWFdV2N5NxnOXoamUNV//qV8NS\nZFlpA5hwHPImPyjlSf0qfILufQKBgQC22YMWSWSa4/kjZHxuKPZNvh6SXhYPZAG8\nfa2Y4Hy276ibLYihFnv1CpFrf+Q8O0JMI0k25Po8LWpz/o0mlKHwP+kYa208Cud7\nA6r0ytDlD2oPoIRMf77eOfeTx6Hm06JMuLPHC+DWoJvELWQcvO3uekMuV2XM63WZ\nmb5M7omChQKBgGJWAMb5YpZ+dRfvD3RAsUx6y98d/KNVvjq2dv8QMTzCGeTt8exB\nHQ6oRdPfzvjL4oWBMCDegDHze3RFnIHTqCrc+5WiDViqtcyrdzVWyVr2VVplPNMF\nTnvjf72d8XhU9CFSrCf1q/Kjl0LJvjGJ9tZaDIwxr7kh8c76cYdATQIZAoGAG9G+\nGv7xmotC1XqtX8lFqBBb8GL2MkNB7F6msdK9xstxuKJV3kRgeaiw9U0Q+YT+kjzw\nH7T4yX0TbDB3Yz5L4RSoLznw9ainDVVChlnxLFiLB3OhjU4GSSNCoq5F2KusTsXv\nPEJ3Y9AtwswxJhosjRL2868CYwoT61mz1VqZe00CgYBghoxeAMcaL9v8513te8L4\nUjXRCciXa2QzF5/7sQRYlW7+2sk/1c87cFeSdAgnjMtTKZ1yhBzAJgIKmuSVFKr3\n0ON8jYMWduq2+8kJiukiiNNxvzKXxPJ+VGsHwjS1YP/7wIMAXAJkkoPPnSl/5QH6\nYgcoN1ihiIyhfFjm0jtgRQ==\n-----END PRIVATE KEY-----\n",
-  "client_email": "discord-orion-bot@trape-327504.iam.gserviceaccount.com",
-  "client_id": "113813939431790986727",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/discord-orion-bot%40trape-327504.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+  "type": "fill the data here (You can get the data from the google cloud console)",
+  "project_id": "fill the data here (You can get the data from the google cloud console)",
+  "private_key_id": "fill the data here (You can get the data from the google cloud console)",
+  "private_key": "fill the data here (You can get the data from the google cloud console)",
+  "client_email": "fill the data here (You can get the data from the google cloud console)",
+  "client_id": "fill the data here (You can get the data from the google cloud console)",
+  "auth_uri": "fill the data here (You can get the data from the google cloud console)",
+  "token_uri": "fill the data here (You can get the data from the google cloud console)",
+  "auth_provider_x509_cert_url": "fill the data here (You can get the data from the google cloud console)",
+  "client_x509_cert_url": "fill the data here (You can get the data from the google cloud console)",
+  "universe_domain": "fill the data here (You can get the data from the google cloud console)"
 }
